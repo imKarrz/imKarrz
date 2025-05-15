@@ -26,9 +26,8 @@
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p class="mx-auto" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=imKarrz&show_icons=true&theme=buefy" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=imKarrz&theme=buefy&hide_border=false" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=imKarrz&show_icons=true&theme=buefy" /> <img src="https://nirzak-streak-stats.vercel.app/?user=imKarrz&theme=buefy&hide_border=false" />
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKarrz&buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
