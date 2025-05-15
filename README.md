@@ -34,7 +34,6 @@
     <img src="https://nirzak-streak-stats.vercel.app/?user=imKarrz&theme=buefy&hide_border=false" />
 </p>
 
----
 #### Play Games With Me
 <div align="center">
   <img src="https://profile-counter.glitch.me/imKarrz/count.svg?"  />
