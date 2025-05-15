@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 💼 I’m currently working on **My Own Store** ***[Karrz Store](https://www.instagram.com/imkarrz_/)***.
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP**.
-- 📫 How to reach me: **[My E-Mail](zakariyarafli58@gmail.com)**
+- 📫 How to reach me: **zakariyarafli58@gmail.com**
