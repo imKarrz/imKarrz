@@ -25,10 +25,7 @@
 [![Repository](https://github-readme-stats.vercel.app/api/pin/?username=imKarrz&repo=imKarrz&show_owner=true&theme=buefy)](https://github.com/imKarrz/imKarrz)
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=imKarrz&show_icons=true&theme=buefy" /> <img src="https://nirzak-streak-stats.vercel.app/?user=imKarrz&theme=buefy&hide_border=false" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=imKarrz&show_icons=true&theme=buefy" /> <img src="https://nirzak-streak-stats.vercel.app/?user=imKarrz&theme=buefy&hide_border=false" />
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imKarrz&buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
