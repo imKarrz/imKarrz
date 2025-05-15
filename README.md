@@ -34,21 +34,10 @@
     <img src="https://nirzak-streak-stats.vercel.app/?user=imKarrz&theme=buefy&hide_border=false" />
 </p>
 
-#### Play Games With Me
-<div align="center">
-  <img src="https://profile-counter.glitch.me/imKarrz/count.svg?"  />
-</div>
+<h3 align="left">Play Games With Me</h3>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imKarrz/imKarrz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imKarrz/imKarrz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imKarrz/imKarrz/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/imKarrz/imKarrz/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
