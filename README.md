@@ -1,3 +1,4 @@
+![banner header](banner.png)
 ## Hello World! I'm Karrz. 👩🏻‍💻
 
 <!--
